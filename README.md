@@ -1,5 +1,8 @@
 # Team Quality & Performance Analysis
 
+## Dashboard Preview
+Dashboard-1 https://github.com/Vansh-analytics180/Team-Quality-Performance-Analysis/blob/main/Team_Quality_Performance_Analysis%20(Dashboard_1).jpeg
+Dashboard-2 https://github.com/Vansh-analytics180/Team-Quality-Performance-Analysis/blob/main/Team_Quality_Performance_Analysis%20(Dashboard_2).jpeg
 ## Project Overview
 
 This project focuses on understanding team quality and operational performance using Microsoft Excel. The analysis looks at how many tasks were completed, how many samples were checked, what errors were identified, and how quality patterns varied across auditors, activities, locations, and managers.

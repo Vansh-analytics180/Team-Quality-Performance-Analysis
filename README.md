@@ -1,4 +1,4 @@
-# Team Quality & Performance Analysis
+# Team Quality & Performance Analysis | Excel Project
 
 ## Dashboard Preview
 Dashboard-1 <img width="1125" height="545" alt="Screenshot 2026-10-12 071605" src="https://github.com/user-attachments/assets/a50531f5-e464-4255-8fef-3fca3707cfca" />

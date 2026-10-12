@@ -1,7 +1,7 @@
 # Team Quality & Performance Analysis
 
 ## Dashboard Preview
-Dashboard-1 <img src="Images/zomato.png" alt="https://github.com/Vansh-analytics180/Team-Quality-Performance-Analysis/blob/main/Team_Quality_Performance_Analysis%20(Dashboard_1).jpeg" width="100%">
+Dashboard-1 Screenshot 2026-10-12 071703
 Dashboard-2 https://github.com/Vansh-analytics180/Team-Quality-Performance-Analysis/blob/main/Team_Quality_Performance_Analysis%20(Dashboard_2).jpeg
 ## Project Overview
 

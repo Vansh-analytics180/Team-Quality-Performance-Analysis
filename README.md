@@ -1,7 +1,7 @@
 # Team Quality & Performance Analysis
 
 ## Dashboard Preview
-Dashboard-1 https://github.com/Vansh-analytics180/Team-Quality-Performance-Analysis/blob/main/Team_Quality_Performance_Analysis%20(Dashboard_1).jpeg
+Dashboard-1 (https://github.com/Vansh-analytics180/Team-Quality-Performance-Analysis/blob/main/Team_Quality_Performance_Analysis%20(Dashboard_1).jpeg)
 Dashboard-2 https://github.com/Vansh-analytics180/Team-Quality-Performance-Analysis/blob/main/Team_Quality_Performance_Analysis%20(Dashboard_2).jpeg
 ## Project Overview
 

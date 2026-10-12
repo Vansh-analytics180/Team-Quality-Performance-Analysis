@@ -1,7 +1,8 @@
 # Team Quality & Performance Analysis
 
 ## Dashboard Preview
-Dashboard-1 Screenshot 2026-10-12 071703
+Dashboard-1 <img width="1125" height="545" alt="Screenshot 2026-10-12 071605" src="https://github.com/user-attachments/assets/a50531f5-e464-4255-8fef-3fca3707cfca" />
+" width="100%">
 Dashboard-2 https://github.com/Vansh-analytics180/Team-Quality-Performance-Analysis/blob/main/Team_Quality_Performance_Analysis%20(Dashboard_2).jpeg
 ## Project Overview
 
